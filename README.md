@@ -173,3 +173,10 @@ Contributions are welcome! Please create a pull request or submit an issue for a
 ## Questions
 
 If you have any questions, please contact me at [tristist@gmail.com](mailto:tristist@gmail.com). You can also find more of my work on [GitHub](https://github.com/TristinRohr).
+
+## Video
+[Video showing Insomnia tests](<Screen Recording 2024-08-01 at 8.50.50 PM.mov>)
+
+## Link
+
+[GitHub](https://github.com/TristinRohr/social-network-api)
